@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Amour 1+1">
+<rect width="512" height="512" rx="28" fill="#020d1d"/>
+<g fill="#fff8ef"><rect x="30" y="78" width="24" height="34" rx="7"/><rect x="30" y="145" width="24" height="34" rx="7"/><rect x="30" y="212" width="24" height="34" rx="7"/><rect x="30" y="279" width="24" height="34" rx="7"/><rect x="30" y="346" width="24" height="34" rx="7"/><rect x="458" y="78" width="24" height="34" rx="7"/><rect x="458" y="145" width="24" height="34" rx="7"/><rect x="458" y="212" width="24" height="34" rx="7"/><rect x="458" y="279" width="24" height="34" rx="7"/><rect x="458" y="346" width="24" height="34" rx="7"/></g>
+<rect x="458" y="279" width="24" height="34" rx="7" fill="#ffd21a"/>
+<text x="390" y="105" text-anchor="middle" fill="#ffd21a" font-family="Georgia,serif" font-size="25">1+1</text>
+<path d="M256 438C225 409 66 292 66 190c0-57 37-91 84-91 45 0 78 27 106 65 28-38 61-65 106-65 47 0 84 34 84 91 0 102-159 219-190 248z" fill="#f13b0c"/>
+<g fill="#fff8ef"><circle cx="198" cy="257" r="43"/><circle cx="314" cy="257" r="43"/><circle cx="198" cy="257" r="13" fill="#f13b0c"/><circle cx="314" cy="257" r="13" fill="#f13b0c"/><path d="M198 217l11 28h-22zM198 297l-11-28h22zM158 257l28-11v22zM238 257l-28 11v-22zM314 217l11 28h-22zM314 297l-11-28h22zM274 257l28-11v22zM354 257l-28 11v-22z" fill="#f13b0c"/></g>
+<rect x="165" y="291" width="183" height="75" rx="9" fill="#fff8ef"/><path d="M348 309l48-27v93l-48-28z" fill="#fff8ef"/>
+<text x="254" y="338" text-anchor="middle" fill="#080808" font-family="Arial,sans-serif" font-size="26" letter-spacing="4">AMOUR</text>
+<path d="M222 365l-24 73M291 365l25 73M256 365v73" stroke="#fff8ef" stroke-width="12" fill="none"/>
+</svg>
